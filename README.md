@@ -2,7 +2,7 @@
 
 A compassionate pet care and animal welfare website dedicated to connecting pet lovers with adoption services, veterinary resources, and animal welfare education — with a special focus on rescuing Sri Lankan street dogs and cats.
 
----
+---gg
 
 ## Overview
 
